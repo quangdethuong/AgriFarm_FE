@@ -152,7 +152,7 @@
         "msg_add_disease_info_fail": "Thêm thông tin bệnh thất bại",
         "msg_add_disease_info_ok": "Thêm thông tin bệnh thành công",
         "disease_info_detail": "Chi tiết thông tin bệnh",
-        "select_disease_name": "Chọn tên bệnh",
+        "select_disease_name": "Chọn bệnh",
         "delete_title": "Xóa",
         "msg_confirm_delete": "Bạn có muốn xóa",
         "cancel_btn": "Hủy"

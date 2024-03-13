@@ -7,12 +7,10 @@ const { Content, Sider } = Layout;
 
 import themeConfig from '@/lib/theme/themeConfig';
 
-
-
-
 import Loader from '@/components/Loader/Loader';
 import SAdminSider from '../../Layouts/SAdmin/Sider/SASider';
 import { usePathname } from '@/navigation';
+import BreadcrumbComponent from '../(Admin)/staff/components/Breadcrumb/breadCrumb';
 
 export default function LayoutSuperAdmin({ children }: { children: React.ReactNode }) {
   const pathName = usePathname();

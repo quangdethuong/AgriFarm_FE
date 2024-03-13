@@ -1,4 +1,3 @@
-
 import Admin from '@/types/admin';
 import FormRegisterValues from '@/types/register';
 import HttpResponseCommon from '@/types/response';
