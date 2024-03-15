@@ -4,7 +4,7 @@ import {
   Product,
   SeedPro
 } from '@/app/[locale]/(Dashboard)/(Admin)/season/models/season-model';
-import { payLoadResponse } from '@/redux/features/season-slice';
+// import { payLoadResponse } from '@/redux/features/season-slice';
 import HttpResponseCommon from '@/types/response';
 import { http } from '@/utils/config';
 import { Axios, AxiosInstance } from 'axios';
